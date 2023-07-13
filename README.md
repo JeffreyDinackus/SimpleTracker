@@ -1,5 +1,11 @@
 # simple_tracker
 
+<p>This app is a free and open source way to track things throughout the day or throughout the week, such as meats, cheat meals/refeeds, water intake, fruit and veggies eaten etc.</p>
+
+<p>Simply add a tracker, add a note to it to help you remember and start tracking.</p>
+
+<p>Available for Android below, IoS coming soon.</p>
+
 # Release Version 1.0 7/13/23
 
 <p>download APK for android phones on this page: <a href="https://github.com/JeffreyDinackus/SimpleTracker/blob/main/SimpleTracker-Release-1.0.apk">https://github.com/JeffreyDinackus/SimpleTracker/blob/main/SimpleTracker-Release-1.0.apk</a> and click the download link.</p>
