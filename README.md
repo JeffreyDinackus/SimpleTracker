@@ -8,7 +8,7 @@
 
 # Release Version 1.0 7/13/23
 
-<p>download APK for android phones on this page: <a href="https://github.com/JeffreyDinackus/SimpleTracker/blob/main/SimpleTracker-Release-1.0.apk">https://github.com/JeffreyDinackus/SimpleTracker/blob/main/SimpleTracker-Release-1.0.apk</a> and click the download link.</p>
+<p>download APK for android phones on this page: <a href="https://github.com/JeffreyDinackus/SimpleTracker/blob/main/SimpleTracker-Release-1.0.apk">https://github.com/JeffreyDinackus/SimpleTracker/blob/main/SimpleTracker-Release-1.0.apk</a> and click the download link on the right on android (icon).</p>
 
 
 
